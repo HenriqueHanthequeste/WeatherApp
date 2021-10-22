@@ -4,6 +4,7 @@ Aplicativo com uma função simples! Digite o nome da cidade e clique no botão 
 
 <div align="center">
 <strong> Demonstração de uso do App </strong>
+<p>
 </div>
 
 <p align="center">

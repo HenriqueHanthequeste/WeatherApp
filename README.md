@@ -6,4 +6,6 @@ Aplicativo com uma função simples! Digite o nome da cidade e clique no botão 
 <strong> Demonstração de uso do App </strong>
 </div>
 
-![Image Test](https://github.com/HenriqueHanthequeste/WeatherApp/blob/main/Weather%20App.gif?raw=true)
+<p align="center">
+<img src="https://github.com/HenriqueHanthequeste/WeatherApp/blob/main/Weather%20App.gif?raw=true" />
+</p>
